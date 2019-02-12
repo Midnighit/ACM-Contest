@@ -1,0 +1,7 @@
+10:38:07 **** Incremental Build of configuration Debug for project RelationalOperators ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\RelationalOperators.o" "..\\src\\RelationalOperators.cpp" 
+g++ -o RelationalOperators.exe "src\\RelationalOperators.o" 
+
+10:38:08 Build Finished. 0 errors, 0 warnings. (took 670ms)
+

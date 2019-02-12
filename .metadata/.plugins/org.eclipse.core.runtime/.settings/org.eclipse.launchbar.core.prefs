@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:8QueensChessProblem.exe,org.eclipse.launchbar.core.descriptorType.default\:OptimalArrayMultiplicationSequence.exe,org.eclipse.launchbar.core.descriptorType.default\:Pi.exe,org.eclipse.launchbar.core.descriptorType.default\:combinations.exe,org.eclipse.launchbar.core.descriptorType.default\:TheHammingDistanceProblem.exe,org.eclipse.launchbar.core.descriptorType.default\:SuDoku.exe,org.eclipse.launchbar.core.descriptorType.default\:TheTwinTowers.exe,org.eclipse.launchbar.core.descriptorType.default\:YouCanSay11.exe,org.eclipse.launchbar.core.descriptorType.default\:RelationalOperators.exe,org.eclipse.launchbar.core.descriptorType.default\:TaxCalculator.exe,org.eclipse.launchbar.core.descriptorType.default\:ShortestNames.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:8QueensChessProblem.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:8QueensChessProblem.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

@@ -1,0 +1,7 @@
+10:41:36 **** Incremental Build of configuration Debug for project ShortestNames ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\ShortestNames.o" "..\\src\\ShortestNames.cpp" 
+g++ -o ShortestNames.exe "src\\ShortestNames.o" 
+
+10:41:37 Build Finished. 0 errors, 0 warnings. (took 803ms)
+

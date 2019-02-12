@@ -1,0 +1,13 @@
+//============================================================================
+// Name        : OptimalArrayMultiplicationSequence.cpp
+// Author      : ae652720
+// Description : 348 - Optimal Array Multiplication Sequence
+//============================================================================
+
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	return 0;
+}
