@@ -1,7 +1,0 @@
-10:33:29 **** Incremental Build of configuration Debug for project TheTwinTowers ****
-Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\TheTwinTowers.o" "..\\src\\TheTwinTowers.cpp" 
-g++ -o TheTwinTowers.exe "src\\TheTwinTowers.o" 
-
-10:33:30 Build Finished. 0 errors, 0 warnings. (took 679ms)
-

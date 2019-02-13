@@ -1,7 +1,0 @@
-10:32:08 **** Incremental Build of configuration Debug for project SuDoku ****
-Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SuDoku.o" "..\\src\\SuDoku.cpp" 
-g++ -o SuDoku.exe "src\\SuDoku.o" 
-
-10:32:08 Build Finished. 0 errors, 0 warnings. (took 720ms)
-

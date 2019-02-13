@@ -1,7 +1,0 @@
-10:36:03 **** Incremental Build of configuration Debug for project YouCanSay11 ****
-Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\YouCanSay11.o" "..\\src\\YouCanSay11.cpp" 
-g++ -o YouCanSay11.exe "src\\YouCanSay11.o" 
-
-10:36:04 Build Finished. 0 errors, 0 warnings. (took 728ms)
-
